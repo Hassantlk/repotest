@@ -1,4 +1,7 @@
 repotest
+<<<<<<< HEAD
 repotest after upload
 
+=======
+>>>>>>> e9ddc4cbc8549893b328250dca3a6d531095ca23
 a branch in github was created and now chanching the file to see merge.
